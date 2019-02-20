@@ -124,6 +124,10 @@ body {
   font-weight: 300;
   color: #666666;
 }
+.name {
+  font-size:25px;
+  font-weight: bold;
+}
 .nav .contents ul {
   width: 100%;
   padding-left: 0;
